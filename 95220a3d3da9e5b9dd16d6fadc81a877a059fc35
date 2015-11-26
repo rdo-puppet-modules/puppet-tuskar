@@ -1,0 +1,7 @@
+Code-Review+2: RDO CI Service Account <openstack-ci-service@redhat.com>
+Verified+1: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-by: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-at: Thu, 26 Nov 2015 12:03:36 +0100
+Reviewed-on: https://review.gerrithub.io/253387
+Project: rdo-puppet-modules/puppet-tuskar
+Branch: refs/heads/recomb-original-master-142c97b29e079cd03f9008ed1788beec25bb638f
